@@ -1,0 +1,70 @@
+.bg-cable_anker {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -170px -170px;
+    display: inline-block;
+}
+.bg-earphone {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -255px 0;
+    display: inline-block;
+}
+.bg-frizzer {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -255px -85px;
+    display: inline-block;
+}
+.bg-laptop {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -255px -170px;
+    display: inline-block;
+}
+.bg-mobile_cover {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -85px -255px;
+    display: inline-block;
+}
+.bg-mobile_holder {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') 0 0;
+    display: inline-block;
+}
+.bg-mouse {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -85px 0;
+    display: inline-block;
+}
+.bg-power_bank {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') 0 -85px;
+    display: inline-block;
+}
+.bg-smart_hand {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -85px -85px;
+    display: inline-block;
+}
+.bg-socks {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -170px -85px;
+    display: inline-block;
+}
+.bg-tablet {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -85px -170px;
+    display: inline-block;
+}
+.bg-speakers {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') 0 -170px;
+    display: inline-block;
+}
+.bg-mobile {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') 0 -255px;
+    display: inline-block;
+}
+.bg-smart_watch {
+    width: 85px; height: 85px;
+    background: url('./assets/images/css_sprites.png') -170px 0;
+    display: inline-block;
+}
